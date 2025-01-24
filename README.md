@@ -4,4 +4,4 @@ COMP 423 Go Tutorial
 
 Sanjana Gopalswamy's Go Tutorial
 
-<link to public gh pages website>
+https://sgopal08.github.io/comp423-course-notes/tutorials/go-setup/
